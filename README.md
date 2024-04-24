@@ -2,7 +2,7 @@
 # README_GENERATOR
 # [Page Link](https://app.screencastify.com/v3/watch/1tiXnGykyqxoTE1u5x3z)
 
-![](./Develop/assets/Screenshot%202024-03-12%20112145.png)
+![](./public/assets/images/Screenshot%202024-04-24%20150835.png)
 ## Description
 This notetaker application is designed to be used to take notes/to do list for people who are busy during their workday and want to stay organized and time efficient.
 ## Installation
